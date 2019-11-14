@@ -1,0 +1,97 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url(images/citraback2.jpg);
+	background-position:0%; 
+	background-repeat:repeat; 
+	background-attachment:fixed;
+}
+
+a {
+	font-size:11px;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: normal;
+
+}.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #3333FF;
+}
+.style3 {
+	border: thin inset #3399FF;
+}
+
+.tableodd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #D2E2FF;
+	width:20%
+}
+
+.tableeven {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #A4C4FF;
+	width0%
+}
+
+.comboodd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #D2E2FF;
+	width:15%
+}
+
+.comboeven {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #A4C4FF;
+	width:15%
+}
+
+.header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align:center;
+	background-color: #A4C4FF;
+}
+
+.url {
+	text-decoration: blink;
+	color: #0000FF;
+
+}
+.style4 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	color: #3333FF;
+}
+.textfield1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0000FF;
+}
+.textfield2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FF0000;
+}
